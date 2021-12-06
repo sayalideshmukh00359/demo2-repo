@@ -1,3 +1,7 @@
+
+# merge
+merge into feature branch
+
 #demo
 this repo first created on local machine
 
@@ -14,3 +18,4 @@ created feature branch
 new branch
 
 ##new feature branch
+
